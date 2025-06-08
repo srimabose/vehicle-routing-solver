@@ -1,0 +1,4 @@
+Method,Total Distance,Number of Routes,Average Load
+KNN,576.93,3,33.67
+Branch-Cut,633.9,3,33.67
+Hybrid,670.49,5,20.2
